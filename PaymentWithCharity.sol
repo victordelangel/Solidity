@@ -17,7 +17,7 @@ contract PaymentWithCharity{
         seller += sellerAmount;
         charity += charityAmount;
 
-        buyer = buyer - (sellerAmount + charityAmount);
+        //buyer = buyer - (sellerAmount + charityAmount);
 
     }
 
