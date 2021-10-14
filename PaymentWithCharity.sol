@@ -14,8 +14,8 @@ contract PaymentWithCharity{
 
     function set(uint sellerAmount, uint charityAmount){
 
-        seller += sellerAmount;
-        charity += charityAmount;
+        //seller += sellerAmount;
+        //charity += charityAmount;
 
         //buyer = buyer - (sellerAmount + charityAmount);
 
